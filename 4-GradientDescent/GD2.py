@@ -41,7 +41,7 @@ def draw(X0, Y0, w1, ids, nrows = 2, ncols = 4):
 			axs[r, c].plot()
 			axs[r, c].tick_params(axis = 'both', which = 'major', labelsize = 13)
 		else:
-			axs[c].plot(X0, Y0, 'bo', markersize = 5)
+			axs[c].plot(X0, Y0, 'bo', markersize = .5)
 			axs[c].set_xlabel(str0)
 			axs[c].plot(x, y, 'r')
 			axs[c].axis([0, 1, 0, 8])
@@ -49,8 +49,6 @@ def draw(X0, Y0, w1, ids, nrows = 2, ncols = 4):
 			axs[c].tick_params(axis = 'both', which = 'major', labelsize = 8)
 
 	plt.show()
-
-
 
 
 X = np.random.rand(1000)
