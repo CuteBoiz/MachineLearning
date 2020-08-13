@@ -4,6 +4,9 @@ Machine Learning Algorithms
 ### I. INTRODUCTION
 - [Basic Technique](https://github.com/CuteBoiz/MachineLearning)
 - [Data Manipulation](https://github.com/CuteBoiz/MachineLearning)
+	- [Basic Data Manipulation](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/DataManipulation.ipynb)
+	- [Data Pre-precessing (csv file)](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/DataPre-processing.ipynb)
+	- [Basic Linear Algebra](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/LinearAlgebra.ipynb)
 
 ### II. MACHINE LEARNING OVERVIEW                              
 - [Linear Regression](https://github.com/CuteBoiz/MachineLearning)
