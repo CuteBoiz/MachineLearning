@@ -15,6 +15,8 @@ Machine Learning Algorithms
 
 ### III. NEURAL NETWORK
 - **[Gradient Descent](https://github.com/CuteBoiz/MachineLearning)**
+	- [Basic Gradient Descent with Graphs](https://github.com/CuteBoiz/MachineLearning/blob/master/5-GradientDescent/HowGDWork.ipynb)
+	- [Batch / Stochatis / Mini-batch Gradient Descent](https://github.com/CuteBoiz/MachineLearning/blob/master/5-GradientDescent/LinearRegressionWithGD.ipynb)
 - **[Perceptron Learning Algorithm (PLA)](https://github.com/CuteBoiz/MachineLearning)**
 - **[Logistic Regression](https://github.com/CuteBoiz/MachineLearning)**
 - **[Softmax Regression](https://github.com/CuteBoiz/MachineLearning)**
