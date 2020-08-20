@@ -27,7 +27,7 @@ Machine Learning Algorithms
 	- [Basic MLP & Back Propagation](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/BasicMLP.ipynb)
 	- [MLP with Mini-batch GD](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/MLPwithMiniBatch.ipynb)
 	
-### IV. TENSORFLOW & KERAS INTRODUCTION.
+### IV. TENSORFLOW & KERAS.
 - **[Basic Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Regression.ipynb)**
 - **[Softmax & MLP for Classification](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Classifier.ipynb)**
 - **[CNN + VGG16 Architecture](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN-Architecture.ipynb)**
