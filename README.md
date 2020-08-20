@@ -14,15 +14,21 @@ Machine Learning Algorithms
 - **[Kmeans Clustering](https://github.com/CuteBoiz/MachineLearning/blob/master/4-KMeans/BasicKMeans.ipynb)**
 
 ### III. NEURAL NETWORK
-- **[Gradient Descent]()**
+- **[Gradient Descent](https://github.com/CuteBoiz/MachineLearning/blob/master/README.md#iii-neural-network)**
 	- [Basic Gradient Descent with Graphs](https://github.com/CuteBoiz/MachineLearning/blob/master/5-GradientDescent/HowGDWork.ipynb)
 	- [Batch / Stochastis / Mini-batch Gradient Descent](https://github.com/CuteBoiz/MachineLearning/blob/master/5-GradientDescent/LinearRegressionWithGD.ipynb)
-- **[Perceptron Learning Algorithm (PLA)]()**
+- **[Perceptron Learning Algorithm (PLA)](https://github.com/CuteBoiz/MachineLearning/blob/master/README.md#iii-neural-network)**
 	- [Basic PLA](https://github.com/CuteBoiz/MachineLearning/blob/master/6-PLA/BasicPLA.ipynb)
 - **[Logistic Regression](https://github.com/CuteBoiz/MachineLearning)**
 	- [Basic Logistic Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/7-LogisticRegression/BasicLogisticRegression.ipynb)
-- **[Softmax Regression]()**
+- **[Softmax Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/README.md#iii-neural-network)**
 	- [Basic Softmax Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/8-SoftmaxRegression/BasicSoftmax.ipynb)
-- **[Multilayer Neural Network]()**
+- **[Multilayer Neural Network](https://github.com/CuteBoiz/MachineLearning/blob/master/README.md#iii-neural-network)**
 	- [Basic MLP & Back Propagation](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/BasicMLP.ipynb)
 	- [MLP with Mini-batch GD](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/MLPwithMiniBatch.ipynb)
+	
+### IV. TENSORFLOW & KERAS INTRODUCTION
+- **[Tensorflow + Keras for Regression]()**
+- **[Tensorflow + Keras for Classification]()**
+
+
