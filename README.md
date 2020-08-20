@@ -28,9 +28,9 @@ Machine Learning Algorithms
 	- [MLP with Mini-batch GD](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/MLPwithMiniBatch.ipynb)
 	
 ### IV. TENSORFLOW & KERAS INTRODUCTION
-- **[Tensorflow + Keras for Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Regression.ipynb)**
-- **[Tensorflow + Keras for Classification](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Classifier.ipynb)**
-- **[CNN Architecture](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN-Architecture.ipynb)**
+- **[Basic Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Regression.ipynb)**
+- **[Softmax & MLP for Classification](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Classifier.ipynb)**
+- **[CNN + VGG16 Architecture](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN-Architecture.ipynb)**
 - **[MNist & Cifar10 Classifier]()**
 
 
