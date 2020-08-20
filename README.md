@@ -5,7 +5,7 @@ Machine Learning Algorithms
 - **[Basic Technique](https://github.com/CuteBoiz/MachineLearning)**
 - **[Data Manipulation](https://github.com/CuteBoiz/MachineLearning)**
 	- [Basic Data Manipulation](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/DataManipulation.ipynb)
-	- [Data Pre-precessing (csv file)](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/DataPre-processing.ipynb)
+	- [Data Pre-processing (csv file)](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/DataPre-processing.ipynb)
 	- [Basic Linear Algebra](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/LinearAlgebra.ipynb)
 
 ### II. MACHINE LEARNING OVERVIEW                              
@@ -28,7 +28,10 @@ Machine Learning Algorithms
 	- [MLP with Mini-batch GD](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/MLPwithMiniBatch.ipynb)
 	
 ### IV. TENSORFLOW & KERAS INTRODUCTION
-- **[Tensorflow + Keras for Regression]()**
-- **[Tensorflow + Keras for Classification]()**
+- **[Tensorflow + Keras for Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Regression.ipynb)**
+- **[Tensorflow + Keras for Classification](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Classifier.ipynb)**
+- **[CNN Architecture](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN-Architecture.ipynb)**
+- **[MNist & Cifar10 Classifier]()**
+
 
 
