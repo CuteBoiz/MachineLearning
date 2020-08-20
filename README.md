@@ -9,9 +9,9 @@ Machine Learning Algorithms
 	- [Basic Linear Algebra](https://github.com/CuteBoiz/MachineLearning/blob/master/1-DataManipulation/LinearAlgebra.ipynb)
 
 ### II. MACHINE LEARNING OVERVIEW                              
-- **[Linear Regression](https://github.com/CuteBoiz/MachineLearning)**
-- **[K-Nearest Neighbor](https://github.com/CuteBoiz/MachineLearning)**
-- **[Kmeans Clustering](https://github.com/CuteBoiz/MachineLearning)**
+- **[Linear Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/2-LinearRegression/Linear%20Regression.ipynb)**
+- **[K-Nearest Neighbor](https://github.com/CuteBoiz/MachineLearning/blob/master/3-KNN/Basic%20KNN.ipynb)**
+- **[Kmeans Clustering](https://github.com/CuteBoiz/MachineLearning/blob/master/4-KMeans/BasicKMeans.ipynb)**
 
 ### III. NEURAL NETWORK
 - **[Gradient Descent](https://github.com/CuteBoiz/MachineLearning)**
@@ -20,5 +20,9 @@ Machine Learning Algorithms
 - **[Perceptron Learning Algorithm (PLA)](https://github.com/CuteBoiz/MachineLearning)**
 	- [Basic PLA](https://github.com/CuteBoiz/MachineLearning/blob/master/6-PLA/BasicPLA.ipynb)
 - **[Logistic Regression](https://github.com/CuteBoiz/MachineLearning)**
+	- [Basic Logistic Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/7-LogisticRegression/BasicLogisticRegression.ipynb)
 - **[Softmax Regression](https://github.com/CuteBoiz/MachineLearning)**
+	- [Basic Softmax Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/8-SoftmaxRegression/BasicSoftmax.ipynb)
 - **[Multilayer Neural Network](https://github.com/CuteBoiz/MachineLearning)**
+	- [Basic MLP & Back Propagation](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/BasicMLP.ipynb)
+	- [MLP with Mini-batch GD](https://github.com/CuteBoiz/MachineLearning/blob/master/9-MultiLayerPerceptron/MLPwithMiniBatch.ipynb)
