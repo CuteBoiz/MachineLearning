@@ -31,7 +31,7 @@ Machine Learning Algorithms
 - **[Basic Regression](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Regression.ipynb)**
 - **[Softmax & MLP for Classification](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/Classifier.ipynb)**
 - **[CNN + VGG16 Architecture](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN-Architecture.ipynb)**
-- **[MNist & Cifar10 Classifier]()**
+- **[MNist & Cifar10 Classifier with CNN](https://github.com/CuteBoiz/MachineLearning/blob/master/10-TensorflowKeras/CNN.ipynb)**
 
 
 
