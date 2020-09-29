@@ -1,5 +1,6 @@
-# MachineLearning
-Machine Learning Algorithms
+# Machine Learning For Beginner
+
+Machine Learning Algorithms Programming From Scratch
 
 ### I. INTRODUCTION.
 - **[Basic Technique](https://github.com/CuteBoiz/MachineLearning)**
